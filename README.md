@@ -1,5 +1,8 @@
 # line-trace
+<img src="https://github.com/h2non/videoshow/blob/master/test/fixtures/norris.gif" width="180" align="right" />
+python thing for line tracing video files
 
+# usage
 to use:
 - download the [files](https://www.mediafire.com/file/3i6vkgrzhbkjizp/main.zip/file)
 - unzip
