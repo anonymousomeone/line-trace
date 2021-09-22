@@ -12,4 +12,5 @@ to use the 2nd or 3rd times:
 - run main.exe
 - profit in output folder
 
-(i dont know if ffmpeg came included so you may have to install it [here](https://ffmpeg.org/) [instructions (windows)](https://www.wikihow.com/Install-FFmpeg-on-Windows)
+(i dont know if ffmpeg came included so you may have to install it [here](https://ffmpeg.org/) 
+also [instructions (windows)](https://www.wikihow.com/Install-FFmpeg-on-Windows) for installing ffmpeg
