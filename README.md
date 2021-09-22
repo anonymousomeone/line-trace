@@ -1,7 +1,7 @@
 # line-trace
 
 to use:
-- download the [files](ttps://www.mediafire.com/file/3i6vkgrzhbkjizp/main.zip/file)
+- download the [files](https://www.mediafire.com/file/3i6vkgrzhbkjizp/main.zip/file)
 - unzip
 - put a mp4 in input folder 
 - double click on main.exe
