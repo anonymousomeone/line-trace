@@ -6,10 +6,12 @@ python thing for dealing with videos in general
 to use:
 - download the [files](https://www.mediafire.com/file/3i6vkgrzhbkjizp/main.zip/file)
 - unzip
+
 to linetrace:
 - put a mp4 in input folder 
 - double click on main.exe
 - profit in output folder
+
 to ytdl:
 - run main.exe
 - paste in the link
