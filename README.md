@@ -23,3 +23,4 @@ also [instructions (windows)](https://www.wikihow.com/Install-FFmpeg-on-Windows)
 # versons
 v1.0 - https://www.mediafire.com/file/3i6vkgrzhbkjizp/main.zip/file
 v1.1 - https://www.mediafire.com/file/k17w1jdnjrvlhbj/vidImgTools_v1.1.zip/file
+v1.2 - soon™
